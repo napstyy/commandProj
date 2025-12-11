@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/ThirdPerson/Blueprints/Enemy.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/MM/LJ21UZ83TNPXHJ9B4824DB.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/HY/KNNJWO0AA8ILCO08VWCQ42.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/ThirdPerson/Blueprints/EnemySpawner.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/0N/FKLRAW89ISQZNIQXMRSNI8.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/LK/VXQ0MXBXCV9UQ1MUS0PGV4.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/ThirdPerson/Blueprints/ProjBase.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/ML/4MWVFD4NHCC02DB8AM60KN.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/55/T44SRR8G2DB6M4PRNJIWJ2.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/Materials/red.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/Input/IMC_Default.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/Input/Actions/IA_ToggleCollision.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/ThirdPerson/Blueprints/DarkProj.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/7R/1JO6C8XBTB8JN634LUT44M.uasset",
+				"C:/Users/Zauberei/Desktop/unreal proj/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/H6/FAY5DMIJ3GW1CCWTQAJOJ3.uasset"
+			]
+		}
+	]
+}
